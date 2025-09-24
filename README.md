@@ -27,7 +27,7 @@ From a person working 8 hours per day, it would take more than 3 years to build 
 
 ## Install
 
-    $ npm install -g git-hours
+    $ npm install -g goodmagma/git-hours
 
 
 
